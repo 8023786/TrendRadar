@@ -111,8 +111,6 @@ platforms:
     name: "36Kr"
   - id: "gelonghui"
     name: "格隆汇" 
-  - id: "hupu"
-    name: "虎扑" 
   - id: "tencent"
     name: "腾讯新闻" 
   - id: "zaobao"
